@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("hello")
+st.title("helloo")
 st.write(
-    "by nini minie miney moo!!"
+    "by nini minie miney moooo!!"
 )
