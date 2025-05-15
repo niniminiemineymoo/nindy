@@ -5,4 +5,4 @@ st.title(
     "nini minie miney moo"
 )
 
-st.image("view/young.png")
+st.image("Untitled design.png")
