@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("helloo")
-st.write(
-    "by nini minie miney moooo!!"
+st.write("withlove")
+st.title(
+    "nini minie miney moo"
 )
 
 st.image("view/young.png")
